@@ -1,5 +1,5 @@
 Project name : Remmina Plugin URL
-Remmina protocol plugin to open URLs in an external browser.
+Remmina protocol plugin to open an URL in an external browser.
 
 Copyright (C) 2011-2013 Fabio Castelli <muflone@vbsimple.net>
 
