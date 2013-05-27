@@ -3,6 +3,6 @@
 
 #define PLUGIN_NAME        "URL"
 #define PLUGIN_DESCRIPTION "URL - Open an URL in an external browser"
-#define PLUGIN_VERSION     "1.0.0.0"
+#define PLUGIN_VERSION     "1.0.0.1"
 #define PLUGIN_APPICON     "remmina-url"
 #endif
