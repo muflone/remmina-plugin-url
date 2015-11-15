@@ -29,12 +29,15 @@
 static gpointer browsers_list[] =
 {
   "xdg-open", "Automatically detected",
-  "x-www-browser", "Graphical browser",
-  "www-browser", "Console browser",
-  "gnome-www-browser", "GNOME default browser",
   "firefox", "Mozilla Firefox",
   "iceweasel", "Iceweasel",
   "epiphany", "Epiphany",
+  "opera", "Opera",
+  "midori", "Midori",
+  "google-chrome", "Google Chrome",
+  "google-chrome-stable", "Google Chrome (stable)",
+  "google-chrome-beta", "Google Chrome (beta)",
+  "google-chrome-unstable", "Google Chrome (unstable)",
   NULL
 };
 
