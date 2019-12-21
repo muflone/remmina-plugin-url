@@ -1,8 +1,8 @@
 /*
  *     Project: Remmina Plugin URL
  * Description: Remmina protocol plugin to open an URL in an external browser.
- *      Author: Fabio Castelli (Muflone) <muflone@vbsimple.net>
- *   Copyright: 2011-2016 Fabio Castelli (Muflone)
+ *      Author: Fabio Castelli (Muflone) <muflone@muflone.com>
+ *   Copyright: 2011-2019 Fabio Castelli (Muflone)
  *     License: GPL-2+
  *
  * This program is free software; you can redistribute it and/or modify

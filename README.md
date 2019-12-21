@@ -1,10 +1,10 @@
 # Remmina Plugin URL
 
-**Author**: Fabio Castelli (Muflone) <muflone@vbsimple.net>
+**Author**: Fabio Castelli (Muflone) <muflone@muflone.com>
 
 **Home page**: http://www.muflone.com/remmina-plugin-url/
 
-**Copyright**: 2011-2016 Fabio Castelli (Muflone)
+**Copyright**: 2011-2019 Fabio Castelli (Muflone)
 
 **License**: GPL-2+
 
